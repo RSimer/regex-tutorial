@@ -53,10 +53,10 @@ grouping constructs are the parenthesis that cover the brackets and plus sign ()
 
 ### Bracket Expressions
 
-thsi is the \d in the second session and puts specific parameters on character classes
+this is the \d in the second session and puts specific parameters on character classes
 
 ### Character Classes
-Oopsies I already talked about this cause I big dumb (I read the syllabus and you said to use our own words and I will take that literally). [] set a limit of what specific characters you can put into that specific area.
+ [] set a limit of what specific characters you can put into that specific area.
 
 
 ### The OR Operator
